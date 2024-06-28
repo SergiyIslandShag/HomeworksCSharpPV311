@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_IntroToOOP", "04_IntroTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class & struct", "05_Class & struct\05_Class & struct.csproj", "{AD24A871-24E1-4778-8D19-CF49770B503D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Exceptions, namespace", "06_Exceptions, namespace\06_Exceptions, namespace.csproj", "{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AD24A871-24E1-4778-8D19-CF49770B503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD24A871-24E1-4778-8D19-CF49770B503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD24A871-24E1-4778-8D19-CF49770B503D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
