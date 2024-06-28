@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Intro to Microsoft .NET. Типu даннuх", "01_Intro to Microsoft .NET. Типu даннuх\01_Intro to Microsoft .NET. Типu даннuх.csproj", "{30C4F41D-0F24-49AB-9E74-677B99FDE80E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Intro to Microsoft .NET. Типu даннuх", "01_Intro to Microsoft .NET. Типu даннuх\01_Intro to Microsoft .NET. Типu даннuх.csproj", "{30C4F41D-0F24-49AB-9E74-677B99FDE80E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Array. Enum", "02_Array. Enum\02_Array. Enum.csproj", "{6CE29A88-DD04-456E-8F86-FF5E5BCE96BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Array. Enum", "02_Array. Enum\02_Array. Enum.csproj", "{6CE29A88-DD04-456E-8F86-FF5E5BCE96BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_String", "03_String\03_String.csproj", "{A3A1CA43-2C54-44F3-911E-0C9D6183323E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_String", "03_String\03_String.csproj", "{A3A1CA43-2C54-44F3-911E-0C9D6183323E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_IntroToOOP", "04_IntroToOOP\04_IntroToOOP.csproj", "{B4FC978F-21D1-4F17-87AB-A07F6B3D0974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_IntroToOOP", "04_IntroToOOP\04_IntroToOOP.csproj", "{B4FC978F-21D1-4F17-87AB-A07F6B3D0974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class & struct", "05_Class & struct\05_Class & struct.csproj", "{AD24A871-24E1-4778-8D19-CF49770B503D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B4FC978F-21D1-4F17-87AB-A07F6B3D0974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FC978F-21D1-4F17-87AB-A07F6B3D0974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FC978F-21D1-4F17-87AB-A07F6B3D0974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD24A871-24E1-4778-8D19-CF49770B503D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD24A871-24E1-4778-8D19-CF49770B503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD24A871-24E1-4778-8D19-CF49770B503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD24A871-24E1-4778-8D19-CF49770B503D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
