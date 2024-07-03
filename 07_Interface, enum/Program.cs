@@ -10,7 +10,7 @@ namespace _07_Interface__enum
 		Drama,
 		Horror,
 		Documentary
-	}s
+	}
 
 	public class Director : ICloneable
 	{
