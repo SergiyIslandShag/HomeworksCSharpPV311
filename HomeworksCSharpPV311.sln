@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_String", "03_String\03_S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_IntroToOOP", "04_IntroToOOP\04_IntroToOOP.csproj", "{B4FC978F-21D1-4F17-87AB-A07F6B3D0974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class & struct", "05_Class & struct\05_Class & struct.csproj", "{AD24A871-24E1-4778-8D19-CF49770B503D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Class & struct", "05_Class & struct\05_Class & struct.csproj", "{AD24A871-24E1-4778-8D19-CF49770B503D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Exceptions, namespace", "06_Exceptions, namespace\06_Exceptions, namespace.csproj", "{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Exceptions, namespace", "06_Exceptions, namespace\06_Exceptions, namespace.csproj", "{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Standart Interfaces, Enum", "Standart Interfaces, Enum\07_Standart Interfaces, Enum.csproj", "{6D34BC1A-DBC9-4226-A8E4-0EE1A3F4C7BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5EB1C3-5C2F-4BB0-BBEA-09BE44039ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D34BC1A-DBC9-4226-A8E4-0EE1A3F4C7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D34BC1A-DBC9-4226-A8E4-0EE1A3F4C7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D34BC1A-DBC9-4226-A8E4-0EE1A3F4C7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D34BC1A-DBC9-4226-A8E4-0EE1A3F4C7BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
