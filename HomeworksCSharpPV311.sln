@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Events", "11_Events\11_E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_The C# threading model. System.IO space", "12_The C# threading model. System.IO space\12_The C# threading model. System.IO space.csproj", "{481CA24B-49B1-4296-8051-610E453231A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam", "Exam\Exam.csproj", "{F0FD4B44-EA55-4C29-A6BA-04D372691EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{481CA24B-49B1-4296-8051-610E453231A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{481CA24B-49B1-4296-8051-610E453231A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{481CA24B-49B1-4296-8051-610E453231A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FD4B44-EA55-4C29-A6BA-04D372691EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FD4B44-EA55-4C29-A6BA-04D372691EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FD4B44-EA55-4C29-A6BA-04D372691EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FD4B44-EA55-4C29-A6BA-04D372691EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
